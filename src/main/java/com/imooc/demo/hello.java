@@ -10,6 +10,6 @@ public class hello {
     @RequestMapping(value = "/hello",method = RequestMethod.GET)
     public String hello(){
         return "hello sb!";
-        //333333
+        //test
     }
 }
